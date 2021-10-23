@@ -1,0 +1,11 @@
+.Welcome {
+    text-align: center;
+    background-color: #343028;
+    size: 30px;
+    
+}
+
+.Welcome p {
+    font-size: 40px;
+    color: #fb61cd;
+}
